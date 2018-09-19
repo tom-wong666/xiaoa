@@ -1,0 +1,4 @@
+网站guide指引：
+    一，基础配置
+      1，引入bootstrap；
+      2，引入echarts；
