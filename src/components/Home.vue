@@ -26,101 +26,73 @@
           </ul>
         </div>
       </div>
-    </div>
-    <!--导航侧边栏，固定定位，小机器人->
-    <!--banner区-->
-    <div class="jumbotron">
-      <div class="container">
-        <h1>提神小a</h1>
-        <!--这里有问题，缩小回让上面四个字消失-->
-        <h2>简明有趣的短时资讯分享平台，3分钟迅速提神！</h2>
-        <p class="masthead-button-links">
-          <a class="btn btn-lg btn-primary btn-shadow" href="xiaoa.html" target="_blank" role="button">提一下神</a>
-        </p>
-        <ul class="masthead-links list-unstyled">
-          <li>
-            <a href="#" target="_blank" role="button">立即登陆提一下神</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <!--增加六个板块的页头介绍-->
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
-          <div class="page-header" style="text-align: center">
-            <h1>趣味资讯概览</h1>
-            <p>这些栏目是对趣味资讯栏目的简介</p>
-          </div>
-        </div>
-      </div>
-    </div>
+    </div>  
     <!--提神醒脑六个板块介绍-->
-    <div>
+    <div class="contentBody">
       <div class="container six">
-      <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>恐怖体</h3>
-              <p>恐怖体裁的刺激微文，短视频，胆小及身体素质不好的用户勿点！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>恐怖体</h3>
+                <p>恐怖体裁的刺激微文，短视频，胆小及身体素质不好的用户勿点！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>欢乐体</h3>
-              <p>欢乐体裁的有趣微文，图片及短视频，会心一笑从点击这里开始！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>欢乐体</h3>
+                <p>欢乐体裁的有趣微文，图片及短视频，会心一笑从点击这里开始！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>成人体</h3>
-              <p>成人体裁的火辣微文，图片及短视频，个人中心验证身份后开启！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>成人体</h3>
+                <p>成人体裁的火辣微文，图片及短视频，个人中心验证身份后开启！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>新闻体</h3>
-              <p>新闻体裁的图文资讯，轻松了解时事热点！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>新闻体</h3>
+                <p>新闻体裁的图文资讯，轻松了解时事热点！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>社科体</h3>
-              <p>社科体裁的图文资讯，足不出户认识大千世界！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>社科体</h3>
+                <p>社科体裁的图文资讯，足不出户认识大千世界！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="thumbnail tree">
-            <img src="../assets/img/410_240.png">
-            <div class="caption">
-              <h3>音乐体</h3>
-              <p>静谧时光，来点儿音乐提提神吧！</p>
-              <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="thumbnail tree">
+              <img src="../assets/img/410_240.png">
+              <div class="caption">
+                <h3>音乐体</h3>
+                <p>静谧时光，来点儿音乐提提神吧！</p>
+                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
     </div>
     <!--简略底栏	-->
     <div class="panel panel-default footer">
@@ -174,5 +146,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+.contentBody{
+  margin-top:70px;
+}
 </style>
