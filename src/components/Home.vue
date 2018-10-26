@@ -31,65 +31,24 @@
     <div class="contentBody">
       <div class="container six">
         <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>恐怖体</h3>
-                <p>恐怖体裁的刺激微文，短视频，胆小及身体素质不好的用户勿点！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
-            </div>
+          <div class="col-xs-0 col-sm-0 col-md-2 border">
+            广告位
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>欢乐体</h3>
-                <p>欢乐体裁的有趣微文，图片及短视频，会心一笑从点击这里开始！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
+          <div class="col-xs-12 col-sm-6 col-md-8 border">
+            <!--个人信息区-->
+            <div>
+              头像 昵称 性别 年龄
             </div>
+            <article>正文</article>
+            <div>图片--如果有</div>
+            <div>音乐--如果有</div>
+            <div>视频--如果有</div>
+            <div>文章状态</div>
+            <div>评论转发</div>
+            <div>精选评论</div>
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>成人体</h3>
-                <p>成人体裁的火辣微文，图片及短视频，个人中心验证身份后开启！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>新闻体</h3>
-                <p>新闻体裁的图文资讯，轻松了解时事热点！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>社科体</h3>
-                <p>社科体裁的图文资讯，足不出户认识大千世界！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="thumbnail tree">
-              <img src="../assets/img/410_240.png">
-              <div class="caption">
-                <h3>音乐体</h3>
-                <p>静谧时光，来点儿音乐提提神吧！</p>
-                <p><a href="xiaoa.html" class="btn btn-primary" role="button" target="_blank">了解详情</a></p>
-              </div>
-            </div>
+          <div class="col-xs-0 col-sm-0 col-md-2 border">
+            广告位
           </div>
         </div>
       </div>
@@ -146,6 +105,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.border{
+  border:1px solid red;
+}
 .contentBody{
   margin-top:70px;
 }
