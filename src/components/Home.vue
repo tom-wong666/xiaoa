@@ -31,10 +31,10 @@
     <div class="main">
       <div class="container six">
         <div class="row">
-          <div class="col-xs-0 col-sm-0 col-md-2 border">
+          <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-8 border content">
+          <div class="col-xs-12 col-sm-6 col-md-8 content">
             <!--个人信息区-->
             <div class="header">
               头像 昵称 性别 年龄
@@ -47,7 +47,7 @@
             <div>评论转发</div>
             <div>精选评论</div>
           </div>
-          <div class="col-xs-0 col-sm-0 col-md-2 border">
+          <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
           </div>
         </div>
@@ -111,18 +111,18 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-.border{
+<style lang="less" scoped>
+.main{
   /*待删除的设置*/
   border:1px solid red;
-}
-.main{
-  margin-top:0.3rem;
-}
-.content header{
-  font-size:0.14rem;
-}
-.content body{
-  font-size:0.16rem;
+  margin-top:0.4rem;
+  .profit{
+    /*待删除的设置*/
+    border:1px solid green;
+  }
+  .content{
+    /*待删除的设置*/
+    border:1px solid blue;
+  }
 }
 </style>
