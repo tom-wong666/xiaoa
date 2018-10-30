@@ -29,7 +29,7 @@
     </div>  
     <!--主题区域，无限滚动-->
     <div class="main">
-      <div class="container six">
+      <div v-for="(item,index) of content" class="container">
         <div class="row">
           <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
@@ -37,15 +37,25 @@
           <div class="col-xs-12 col-sm-6 col-md-8 content">
             <!--个人信息区-->
             <div class="header">
-              头像 昵称 性别 年龄
+              头像 jack 男 28
             </div>
-            <article class="body">正文</article>
-            <div>图片--如果有</div>
-            <div>音乐--如果有</div>
-            <div>视频--如果有</div>
-            <div>文章状态</div>
-            <div>评论转发</div>
-            <div>精选评论</div>
+            <article class="body">{{item.body.article}}</article>
+            <div>图片--如果有
+              <img src="后台传回地址">
+            </div>
+            <div>音乐--如果有
+               <audio controls autoplay loop>
+                  <source src="地址1"><source src="地址2"><source src="地址3">
+              </audio>            
+            </div>
+            <div>视频--如果有
+               <video controls autoplay loop>
+                 <source src="地址1"><source src="地址2"><source src="地址3">
+               </video>
+            </div>
+            <div>{{item.footer.viewNum}}观看{{item.footer.commentNum}}评论</div>
+            <div>好笑  不好笑 评论 转发</div>
+            <div>头像 tomwong666：楼主威武</div>
           </div>
           <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
@@ -101,10 +111,28 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 export default {
   data(){
     return{
-      content:{
-        header:{},
-        body:{}
-      }
+      content:[
+        {
+          header:{},
+          body:{
+            article:"中学时暗恋班花，被同班的女汉子知道了，连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，不该说什么“这是男人之间的约定”。",
+          },
+          footer:{
+            viewNum:999,
+            commentNum:888,
+          }
+        },
+        {
+          header:{},
+          body:{
+            article:"中学时暗恋班花，被同班的女汉子知道了，连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，不该说什么“这是男人之间的约定”。",
+          },
+          footer:{
+            viewNum:999,
+            commentNum:888,
+          }
+        }
+      ]      
     }
   }
 }
