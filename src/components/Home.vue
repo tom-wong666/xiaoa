@@ -28,7 +28,11 @@
       </div>
     </div>  
     <!--主题区域，无限滚动-->
-    <div class="main">
+    <div class="main"
+      v-infinite-scroll="loadMore" 
+      infinite-scroll-disabled="switchForMore" 
+      infinite-scroll-distance="20">
+      <!--功能块单元-->
       <div v-for="(item,index) of content" class="container">
         <div class="row">
           <div class="col-xs-0 col-sm-0 col-md-2 profit">
@@ -132,7 +136,14 @@ export default {
             commentNum:888,
           }
         }
-      ]      
+      ],
+      switchForMore:false      
+    }
+  },
+  methods:{
+    loadMore(){
+      alert('触发loadMore');
+      // this.switchForMore=true;   
     }
   }
 }
