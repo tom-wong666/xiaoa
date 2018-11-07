@@ -115,37 +115,51 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 export default {
   data(){
     return{
-      content:[
+      content:[],
+      switchForMore:false,
+      num:1      
+    }
+  },
+  methods:{
+    loadMore(){
+      alert('触发loadMore'+this.num);
+      this.num+=1;
+      //数据库目前只有10条数据,mounted时已加载一条了
+      if(this.num>9){
+        this.switchForMore=true;
+        return;  
+      }     
+      this.fetch();
+    },
+    async fetch(){
+      //请求数据
+      const res = await this.$http.get('http://127.0.0.1/main.php?cid='+this.num);
+      //定义数据格式
+      const contentAdd=[
         {
           header:{},
           body:{
-            article:"中学时暗恋班花，被同班的女汉子知道了，连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，不该说什么“这是男人之间的约定”。",
+            article:"",
           },
           footer:{
             viewNum:999,
             commentNum:888,
           }
         },
-        {
-          header:{},
-          body:{
-            article:"中学时暗恋班花，被同班的女汉子知道了，连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，不该说什么“这是男人之间的约定”。",
-          },
-          footer:{
-            viewNum:999,
-            commentNum:888,
-          }
-        }
-      ],
-      switchForMore:false      
+      ];
+      //赋值
+      contentAdd[0].body.article=res.data[0].data[0];
+      //判断是否是第一次请求
+      if(!this.content.length){
+        this.content=contentAdd;
+      }else{
+        this.content=this.content.concat(contentAdd);  
+      }
     }
   },
-  methods:{
-    loadMore(){
-      alert('触发loadMore');
-      // this.switchForMore=true;   
-    }
-  }
+  mounted() {
+    this.fetch();
+  },
 }
 </script>
 

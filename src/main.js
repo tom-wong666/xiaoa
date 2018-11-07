@@ -3,9 +3,13 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import $ from 'jquery'
+// import $ from 'jquery'
+import axios from 'axios'
 import infiniteScroll from 'vue-infinite-scroll'
+
 Vue.use(infiniteScroll)
+
+Vue.prototype.$http = axios
 
 Vue.config.productionTip = false
 
