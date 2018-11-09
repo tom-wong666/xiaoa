@@ -35,32 +35,44 @@
       <!--功能块单元-->
       <div v-for="(item,index) of content" class="container">
         <div class="row">
+          <!--广告位-->
           <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
           </div>
+          <!--内容区-->
           <div class="col-xs-12 col-sm-6 col-md-8 content">
             <!--个人信息区-->
             <div class="header">
-              头像 jack 男 28
+              <span>{{item.header.via}}</span>
+              <span>{{item.header.nickName}}</span>
+               <span>{{item.header.gender}}{{item.header.age}}</span>
             </div>
-            <article class="body">{{item.body.article}}</article>
-            <div>图片--如果有
+            <!--正文-文字-->
+            <article v-if="item.body.article" class="body">{{item.body.article}}</article>
+            <!--正文-图片-->
+            <div v-if="item.body.img">图片--如果有
               <img src="后台传回地址">
             </div>
-            <div>音乐--如果有
+            <!--正文-音乐-->
+            <div v-if="item.body.audio">音乐--如果有
                <audio controls autoplay loop>
                   <source src="地址1"><source src="地址2"><source src="地址3">
               </audio>            
             </div>
-            <div>视频--如果有
+            <!--正文-视频-->
+            <div v-if="item.body.video">视频--如果有
                <video controls autoplay loop>
                  <source src="地址1"><source src="地址2"><source src="地址3">
                </video>
             </div>
-            <div>{{item.footer.viewNum}}观看{{item.footer.commentNum}}评论</div>
+            <!--评论-->
+            <div>{{item.footer.viewNum}} 观看 {{item.footer.commentNum}} 评论</div>
+            <!--功能-->
             <div>好笑  不好笑 评论 转发</div>
+            <!--评论-->
             <div>头像 tomwong666：楼主威武</div>
           </div>
+          <!--广告位-->
           <div class="col-xs-0 col-sm-0 col-md-2 profit">
             广告位
           </div>
@@ -123,7 +135,6 @@ export default {
   methods:{
     loadMore(){
       alert('触发loadMore'+this.num);
-      this.num+=1;
       //数据库目前只有10条数据,mounted时已加载一条了
       if(this.num>9){
         this.switchForMore=true;
@@ -132,12 +143,19 @@ export default {
       this.fetch();
     },
     async fetch(){
+      //数据请求计数
+       this.num+=1;
       //请求数据
       const res = await this.$http.get('http://127.0.0.1/main.php?cid='+this.num);
       //定义数据格式
       const contentAdd=[
         {
-          header:{},
+          header:{
+            via:"头像",
+            nickName:"昵称",
+            gender:"男",
+            age:28,  
+          },
           body:{
             article:"",
           },
@@ -158,6 +176,9 @@ export default {
     }
   },
   mounted() {
+    this.fetch();
+    this.fetch();
+    this.fetch();
     this.fetch();
   },
 }
