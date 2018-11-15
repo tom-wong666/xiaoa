@@ -35,17 +35,14 @@
       <!--功能块单元-->
       <div v-for="(item,index) of content" class="container">
         <div class="row">
-          <!--广告位-->
-          <div class="col-xs-0 col-sm-0 col-md-2 profit">
-            广告位
-          </div>
           <!--内容区-->
           <div class="col-xs-12 col-sm-6 col-md-8 content">
             <!--个人信息区-->
             <div class="header">
-              <span>{{item.header.via}}</span>
-              <span>{{item.header.nickName}}</span>
-               <span>{{item.header.gender}}{{item.header.age}}</span>
+              <!--<span class="via">{{item.header.via}}</span>-->
+              <img class="via" :src="item.header.via"/>
+              <span class="nickName">{{item.header.nickName}}</span>
+               <span class="gender">{{item.header.gender}}{{item.header.age}}</span>
             </div>
             <!--正文-文字-->
             <article v-if="item.body.article" class="body">{{item.body.article}}</article>
@@ -66,14 +63,19 @@
                </video>
             </div>
             <!--评论-->
-            <div>{{item.footer.viewNum}} 观看 {{item.footer.commentNum}} 评论</div>
+            <div class="count">{{item.count.viewNum}} 观看  ·  {{item.count.commondNum}} 评论</div>
             <!--功能-->
-            <div>好笑  不好笑 评论 转发</div>
+            <div class="handle">
+              <img class="icon" :src="item.handle.happy"/>
+              <img class="icon" :src="item.handle.unhappy"/>
+              <img class="icon" :src="item.handle.commond"/>
+              <img class="icon" :src="item.handle.transpond"/>
+             </div>
             <!--评论-->
-            <div>头像 tomwong666：楼主威武</div>
+            <div class="commond-detail">头像 tomwong666：楼主威武</div>
           </div>
           <!--广告位-->
-          <div class="col-xs-0 col-sm-0 col-md-2 profit">
+          <div class="col-xs-0 col-sm-0 col-md-4 profit">
             广告位
           </div>
         </div>
@@ -146,23 +148,32 @@ export default {
       //数据请求计数
        this.num+=1;
       //请求数据
-      const res = await this.$http.get('http://127.0.0.1/main.php?cid='+this.num);
+      const res = await this.$http.post('http://127.0.0.1/main.php?cid='+this.num);
       //定义数据格式
       const contentAdd=[
         {
           header:{
-            via:"头像",
-            nickName:"昵称",
+            via:"../../static/img/girl.gif",
+            nickName:"tom哥的猫",
             gender:"男",
             age:28,  
           },
           body:{
             article:"",
           },
-          footer:{
+          count:{
             viewNum:999,
-            commentNum:888,
-          }
+            commondNum:888,
+          },
+          handle:{
+            happy:"../../static/img/happy.png",
+            unhappy:"../../static/img/unhappy.png",
+            commond:"../../static/img/commond.png",
+            transpond:"../../static/img/transpond.png",
+          },
+          commondDetail:{
+            
+          },
         },
       ];
       //赋值
@@ -187,9 +198,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="less" scoped>
 .main{
-  /*待删除的设置*/
-  border:1px solid red;
-  margin-top:0.4rem;
+  margin-top:0.6rem;
   .profit{
     /*待删除的设置*/
     border:1px solid green;
@@ -197,6 +206,35 @@ export default {
   .content{
     /*待删除的设置*/
     border:1px solid blue;
+    .header{
+      display:flex;
+      justify-content:flex-start;
+      align-items:center;
+      .via{
+        display:inline-block;
+        width: 0.15rem;
+        height: 0.15rem;
+        border-radius: 50%;
+        margin-right:0.01rem;
+      }
+      .nickName{
+        color:#9b8878;
+        margin-right:0.01rem;
+      }
+      .gender{
+        color:#9b8878;
+      }
+    }
+    .count{
+      color:#999;
+      font-size:0.06rem;
+    }
+    .handle{
+      .icon{
+        width: 0.15rem;
+        height: 0.15rem;  
+      }
+    }
   }
 }
 </style>
