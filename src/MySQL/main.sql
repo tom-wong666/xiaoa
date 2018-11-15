@@ -28,30 +28,21 @@ INSERT INTO content VALUES(
 #插入一段测试内容-2
 INSERT INTO content VALUES(
     '',
-    '中学时暗恋班花，被同班的女汉子知道了，
-    连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，
-    结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，
-    不该说什么这是男人之间的约定。',
+    '../../static/data/img/sex/sexPhoto00001.gif',
         0,
         0
 ); 
 #插入一段测试内容-3
 INSERT INTO content VALUES(
     '',
-    '中学时暗恋班花，被同班的女汉子知道了，
-    连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，
-    结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，
-    不该说什么这是男人之间的约定。',
+    '../../static/data/audio/music/muAudio_bitMe_00001.mp3&../../static/data/audio/music/muAudio_bitMe_00001.ogg&../../static/data/audio/music/muAudio_bitMe_00001.wav',
         0,
         0
 ); 
 #插入一段测试内容-4
 INSERT INTO content VALUES(
     '',
-    '中学时暗恋班花，被同班的女汉子知道了，
-    连忙请她保密，本以为向来爽朗不羁的她是不屑告密的，
-    结果丫飞快的把我出卖了。 后来想想，也可能是我拜托她的方式不对，
-    不该说什么这是男人之间的约定。',
+    '../../static/data/video/humor/hlVideo_TBBT_00001.mp4&../../static/data/video/humor/hlVideo_TBBT_00001.avi&../../static/data/video/humor/hlVideo_TBBT_00001.Ogg',
         0,
         0
 ); 

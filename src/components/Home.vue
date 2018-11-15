@@ -39,7 +39,6 @@
           <div class="col-xs-12 col-sm-6 col-md-8 content">
             <!--个人信息区-->
             <div class="header">
-              <!--<span class="via">{{item.header.via}}</span>-->
               <img class="via" :src="item.header.via"/>
               <span class="nickName">{{item.header.nickName}}</span>
                <span class="gender">{{item.header.gender}}{{item.header.age}}</span>
@@ -47,19 +46,23 @@
             <!--正文-文字-->
             <article v-if="item.body.article" class="body">{{item.body.article}}</article>
             <!--正文-图片-->
-            <div v-if="item.body.img">图片--如果有
-              <img src="后台传回地址">
+            <div v-if="item.body.img">
+              <img :src="item.body.img">
             </div>
             <!--正文-音乐-->
-            <div v-if="item.body.audio">音乐--如果有
-               <audio controls autoplay loop>
-                  <source src="地址1"><source src="地址2"><source src="地址3">
+            <div v-if="item.body.audio">
+               <audio controls loop>
+                  <source :src="item.body.audio[0]">
+                  <source :src="item.body.audio[1]">
+                  <source :src="item.body.audio[2]">
               </audio>            
             </div>
             <!--正文-视频-->
-            <div v-if="item.body.video">视频--如果有
-               <video controls autoplay loop>
-                 <source src="地址1"><source src="地址2"><source src="地址3">
+            <div v-if="item.body.video">
+               <video controls loop>
+                  <source :src="item.body.video[0]">
+                  <source :src="item.body.video[1]">
+                  <source :src="item.body.video[2]">
                </video>
             </div>
             <!--评论-->
@@ -160,6 +163,9 @@ export default {
           },
           body:{
             article:"",
+            img:'',
+            audio:'',
+            video:'',
           },
           count:{
             viewNum:999,
@@ -177,7 +183,16 @@ export default {
         },
       ];
       //赋值
-      contentAdd[0].body.article=res.data[0].data[0];
+      const info=res.data[0].data[0];
+      if(info.indexOf('.png')>=0 || info.indexOf('.gif')>=0){
+        contentAdd[0].body.img=info;
+      }else if(info.indexOf('.mp3')>=0){
+        contentAdd[0].body.audio=info.split("&");
+      }else if(info.indexOf('.mp4')>=0){
+        contentAdd[0].body.video=info.split("&");
+      }else{
+        contentAdd[0].body.article=res.data[0].data[0];
+      }
       //判断是否是第一次请求
       if(!this.content.length){
         this.content=contentAdd;
