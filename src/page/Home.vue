@@ -134,17 +134,17 @@ export default {
     return{
       content:[],
       switchForMore:false,
-      num:1      
+      num:0      
     }
   },
   methods:{
     loadMore(){
-      alert('触发loadMore'+this.num);
+      // alert('触发loadMore'+this.num);
       //数据库目前只有10条数据,mounted时已加载一条了
-      if(this.num>9){
-        this.switchForMore=true;
-        return;  
-      }     
+      // if(this.num>9){
+      //   this.switchForMore=true;
+      //   return;  
+      // }     
       this.fetch();
     },
     async fetch(){
@@ -152,6 +152,7 @@ export default {
        this.num+=1;
       //请求数据
       const res = await this.$http.post('http://127.0.0.1/main.php?cid='+this.num);
+      console.log(this.num,res);
       //定义数据格式
       const contentAdd=[
         {
@@ -213,7 +214,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="less" scoped>
 .main{
-  margin-top:0.6rem;
+  margin-top:0.3rem;
   .profit{
     /*待删除的设置*/
     border:1px solid green;
