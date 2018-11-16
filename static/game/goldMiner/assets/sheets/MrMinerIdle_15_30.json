@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "MrMinerIdle_000",
+	"frame": {"x":0,"y":0,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_001",
+	"frame": {"x":79,"y":0,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_002",
+	"frame": {"x":158,"y":0,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_003",
+	"frame": {"x":0,"y":97,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_004",
+	"frame": {"x":79,"y":97,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_005",
+	"frame": {"x":158,"y":97,"w":79,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":79,"h":96},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_006",
+	"frame": {"x":79,"y":194,"w":79,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":25,"w":79,"h":95},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_007",
+	"frame": {"x":0,"y":385,"w":79,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":26,"w":79,"h":94},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_008",
+	"frame": {"x":79,"y":384,"w":79,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":26,"w":79,"h":94},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_009",
+	"frame": {"x":79,"y":289,"w":79,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":25,"w":79,"h":95},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_010",
+	"frame": {"x":0,"y":290,"w":79,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":25,"w":79,"h":95},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_011",
+	"frame": {"x":158,"y":289,"w":79,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":25,"w":79,"h":95},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_012",
+	"frame": {"x":158,"y":193,"w":79,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":79,"h":96},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_013",
+	"frame": {"x":0,"y":194,"w":79,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":79,"h":96},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "MrMinerIdle_014",
+	"frame": {"x":0,"y":0,"w":79,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":23,"w":79,"h":97},
+	"sourceSize": {"w":120,"h":120}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MrMinerIdle_15_30.png",
+	"format": "RGBA4444",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d847c74652f01ff0d22711173b047bdd:d7e3c26963d9aa43327bf25c9ee84040:e1e8c586358e34da6c4bec0a82eebda3$"
+}
+}

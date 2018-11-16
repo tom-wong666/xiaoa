@@ -1,0 +1,125 @@
+
+fgs_monster_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monster02_arm_left
+  rotate: true
+  xy: 703, 184
+  size: 72, 192
+  orig: 72, 192
+  offset: 0, 0
+  index: -1
+monster02_arm_right01
+  rotate: true
+  xy: 883, 119
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+monster02_arm_right02
+  rotate: false
+  xy: 703, 138
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+monster02_body
+  rotate: true
+  xy: 0, 80
+  size: 176, 459
+  orig: 176, 459
+  offset: 0, 0
+  index: -1
+monster02_eyeball
+  rotate: false
+  xy: 1007, 235
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+monster02_eyebrow01
+  rotate: true
+  xy: 830, 17
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+monster02_eyebrow02
+  rotate: false
+  xy: 865, 80
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+monster02_eyeclose01
+  rotate: false
+  xy: 778, 58
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+monster02_eyeclose02
+  rotate: true
+  xy: 714, 48
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+monster02_eyeclose03
+  rotate: false
+  xy: 793, 121
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+monster02_face01
+  rotate: false
+  xy: 459, 138
+  size: 244, 118
+  orig: 244, 118
+  offset: 0, 0
+  index: -1
+monster02_face02
+  rotate: false
+  xy: 895, 173
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+monster02_hand
+  rotate: false
+  xy: 604, 49
+  size: 110, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+monster02_horn01
+  rotate: false
+  xy: 370, 28
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+monster02_horn02
+  rotate: true
+  xy: 778, 0
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+monster02_tail
+  rotate: false
+  xy: 459, 75
+  size: 145, 63
+  orig: 145, 63
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 36
+  size: 370, 44
+  orig: 370, 44
+  offset: 0, 0
+  index: -1

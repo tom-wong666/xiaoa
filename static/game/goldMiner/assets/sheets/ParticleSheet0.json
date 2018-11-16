@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "GroundParticle0",
+	"frame": {"x":101,"y":47,"w":26,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":22},
+	"sourceSize": {"w":26,"h":22}
+},
+{
+	"filename": "GroundParticle1",
+	"frame": {"x":0,"y":91,"w":30,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":35},
+	"sourceSize": {"w":30,"h":35}
+},
+{
+	"filename": "GroundParticle2",
+	"frame": {"x":60,"y":47,"w":35,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":38},
+	"sourceSize": {"w":35,"h":38}
+},
+{
+	"filename": "GroundParticle3",
+	"frame": {"x":60,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+{
+	"filename": "GroundParticle4",
+	"frame": {"x":0,"y":0,"w":54,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":47},
+	"sourceSize": {"w":54,"h":47}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ParticleSheet0.png",
+	"format": "RGBA4444",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e50fb1b3edf19319262d55d34131ce21:e07aaafa933e452da89a18b6ad10e199:ad396d73f60bb4c9e256209acdbd3a40$"
+}
+}

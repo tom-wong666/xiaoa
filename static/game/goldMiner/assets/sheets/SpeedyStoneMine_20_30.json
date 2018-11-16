@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "SpeedyStoneMine_000",
+	"frame": {"x":271,"y":277,"w":91,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":87},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_001",
+	"frame": {"x":272,"y":189,"w":91,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":87},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_002",
+	"frame": {"x":270,"y":0,"w":91,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":90},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_003",
+	"frame": {"x":0,"y":419,"w":91,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":91,"h":93},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_004",
+	"frame": {"x":91,"y":395,"w":91,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":91,"h":95},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_005",
+	"frame": {"x":90,"y":298,"w":90,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":97},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_006",
+	"frame": {"x":180,"y":0,"w":90,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":5,"w":90,"h":99},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_007",
+	"frame": {"x":90,"y":0,"w":90,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":90,"h":101},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_008",
+	"frame": {"x":0,"y":213,"w":90,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":7,"w":90,"h":103},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_009",
+	"frame": {"x":0,"y":0,"w":90,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":90,"h":108},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_010",
+	"frame": {"x":0,"y":108,"w":90,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":5,"w":90,"h":105},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_011",
+	"frame": {"x":0,"y":316,"w":90,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":103},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_012",
+	"frame": {"x":90,"y":101,"w":91,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":91,"h":100},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_013",
+	"frame": {"x":90,"y":201,"w":91,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":91,"h":97},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_014",
+	"frame": {"x":180,"y":298,"w":91,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":91,"h":95},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_015",
+	"frame": {"x":182,"y":393,"w":91,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":93},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_016",
+	"frame": {"x":181,"y":99,"w":92,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":92,"h":90},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_017",
+	"frame": {"x":273,"y":90,"w":91,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":87},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_018",
+	"frame": {"x":361,"y":0,"w":91,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":87},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneMine_019",
+	"frame": {"x":181,"y":189,"w":91,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":88},
+	"sourceSize": {"w":115,"h":115}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "SpeedyStoneMine_20_30.png",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:264efde21dd0ff0bbb4e694203c15ee3:13d544366c867866e8e194509994084f:3b25ec5a2942a3ea40e4e32ae277bf04$"
+}
+}

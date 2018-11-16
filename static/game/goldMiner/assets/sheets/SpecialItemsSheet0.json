@@ -1,0 +1,492 @@
+{"frames": [
+
+{
+	"filename": "BlackSpecialAnkh0",
+	"frame": {"x":437,"y":384,"w":52,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":90},
+	"sourceSize": {"w":52,"h":90}
+},
+{
+	"filename": "BlackSpecialBust0",
+	"frame": {"x":792,"y":697,"w":79,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":112},
+	"sourceSize": {"w":79,"h":112}
+},
+{
+	"filename": "BlackSpecialClayTablet0",
+	"frame": {"x":923,"y":435,"w":90,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":106},
+	"sourceSize": {"w":90,"h":106}
+},
+{
+	"filename": "BlackSpecialEasterIslandHead0",
+	"frame": {"x":0,"y":904,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":120},
+	"sourceSize": {"w":89,"h":120}
+},
+{
+	"filename": "BlackSpecialExcalibur0",
+	"frame": {"x":486,"y":498,"w":108,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":112},
+	"sourceSize": {"w":108,"h":112}
+},
+{
+	"filename": "BlackSpecialFossilSwordFish0",
+	"frame": {"x":650,"y":0,"w":223,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":135},
+	"sourceSize": {"w":223,"h":135}
+},
+{
+	"filename": "BlackSpecialFrozenMammoth0",
+	"frame": {"x":296,"y":482,"w":190,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":173},
+	"sourceSize": {"w":190,"h":173}
+},
+{
+	"filename": "BlackSpecialGoblet0",
+	"frame": {"x":432,"y":813,"w":64,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":83},
+	"sourceSize": {"w":64,"h":83}
+},
+{
+	"filename": "BlackSpecialGoldenPot0",
+	"frame": {"x":489,"y":384,"w":107,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":114},
+	"sourceSize": {"w":107,"h":114}
+},
+{
+	"filename": "BlackSpecialGoldenRam0",
+	"frame": {"x":178,"y":898,"w":101,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":124},
+	"sourceSize": {"w":101,"h":124}
+},
+{
+	"filename": "BlackSpecialMagicLamp0",
+	"frame": {"x":308,"y":819,"w":124,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":79},
+	"sourceSize": {"w":124,"h":79}
+},
+{
+	"filename": "BlackSpecialMummy0",
+	"frame": {"x":419,"y":0,"w":75,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":167},
+	"sourceSize": {"w":75,"h":167}
+},
+{
+	"filename": "BlackSpecialRomanHelmet0",
+	"frame": {"x":945,"y":647,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":99},
+	"sourceSize": {"w":74,"h":99}
+},
+{
+	"filename": "BlackSpecialRoyalCrown0",
+	"frame": {"x":233,"y":390,"w":102,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":92},
+	"sourceSize": {"w":102,"h":92}
+},
+{
+	"filename": "BlackSpecialSphinx0",
+	"frame": {"x":873,"y":233,"w":117,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":101},
+	"sourceSize": {"w":117,"h":101}
+},
+{
+	"filename": "BlackSpecialTikiMask0",
+	"frame": {"x":680,"y":564,"w":81,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":136},
+	"sourceSize": {"w":81,"h":136}
+},
+{
+	"filename": "BlackSpecialTriceratopsSkull0",
+	"frame": {"x":198,"y":0,"w":221,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":211},
+	"sourceSize": {"w":221,"h":211}
+},
+{
+	"filename": "BlackSpecialTrident0",
+	"frame": {"x":0,"y":698,"w":59,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":206},
+	"sourceSize": {"w":59,"h":206}
+},
+{
+	"filename": "BlackSpecialUfo0",
+	"frame": {"x":873,"y":0,"w":139,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":77},
+	"sourceSize": {"w":139,"h":77}
+},
+{
+	"filename": "BlackSpecialVikingLongboat0",
+	"frame": {"x":596,"y":270,"w":173,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":147},
+	"sourceSize": {"w":173,"h":147}
+},
+{
+	"filename": "GrabbedSpecialAnkh0",
+	"frame": {"x":380,"y":898,"w":68,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":124},
+	"sourceSize": {"w":68,"h":124}
+},
+{
+	"filename": "GrabbedSpecialBust0",
+	"frame": {"x":761,"y":564,"w":79,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":133},
+	"sourceSize": {"w":79,"h":133}
+},
+{
+	"filename": "GrabbedSpecialClayTablet0",
+	"frame": {"x":769,"y":399,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+{
+	"filename": "GrabbedSpecialEasterIslandHead0",
+	"frame": {"x":556,"y":882,"w":89,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":141},
+	"sourceSize": {"w":89,"h":141}
+},
+{
+	"filename": "GrabbedSpecialExcalibur0",
+	"frame": {"x":448,"y":896,"w":108,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":118},
+	"sourceSize": {"w":108,"h":118}
+},
+{
+	"filename": "GrabbedSpecialFossilSwordFish0",
+	"frame": {"x":0,"y":0,"w":138,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":248},
+	"sourceSize": {"w":138,"h":248}
+},
+{
+	"filename": "GrabbedSpecialFrozenMammoth0",
+	"frame": {"x":118,"y":698,"w":190,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":200},
+	"sourceSize": {"w":190,"h":200}
+},
+{
+	"filename": "GrabbedSpecialGoblet0",
+	"frame": {"x":871,"y":647,"w":74,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":112},
+	"sourceSize": {"w":74,"h":112}
+},
+{
+	"filename": "GrabbedSpecialGoldenPot0",
+	"frame": {"x":645,"y":869,"w":113,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":139},
+	"sourceSize": {"w":113,"h":139}
+},
+{
+	"filename": "GrabbedSpecialGoldenRam0",
+	"frame": {"x":385,"y":655,"w":101,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":158},
+	"sourceSize": {"w":101,"h":158}
+},
+{
+	"filename": "GrabbedSpecialMagicLamp0",
+	"frame": {"x":486,"y":610,"w":79,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":158},
+	"sourceSize": {"w":79,"h":158}
+},
+{
+	"filename": "GrabbedSpecialMummy0",
+	"frame": {"x":221,"y":487,"w":75,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":187},
+	"sourceSize": {"w":75,"h":187}
+},
+{
+	"filename": "GrabbedSpecialRomanHelmet0",
+	"frame": {"x":758,"y":836,"w":74,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":129},
+	"sourceSize": {"w":74,"h":129}
+},
+{
+	"filename": "GrabbedSpecialRoyalCrown0",
+	"frame": {"x":769,"y":270,"w":94,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":129},
+	"sourceSize": {"w":94,"h":129}
+},
+{
+	"filename": "GrabbedSpecialSphinx0",
+	"frame": {"x":565,"y":610,"w":115,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":147},
+	"sourceSize": {"w":115,"h":147}
+},
+{
+	"filename": "GrabbedSpecialTikiMask0",
+	"frame": {"x":569,"y":0,"w":81,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":165},
+	"sourceSize": {"w":81,"h":165}
+},
+{
+	"filename": "GrabbedSpecialTriceratopsSkull",
+	"frame": {"x":0,"y":248,"w":233,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":239},
+	"sourceSize": {"w":233,"h":239}
+},
+{
+	"filename": "GrabbedSpecialTrident0",
+	"frame": {"x":138,"y":0,"w":60,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":229},
+	"sourceSize": {"w":60,"h":229}
+},
+{
+	"filename": "GrabbedSpecialUfo0",
+	"frame": {"x":308,"y":655,"w":77,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":164},
+	"sourceSize": {"w":77,"h":164}
+},
+{
+	"filename": "GrabbedSpecialVikingLongboat0",
+	"frame": {"x":233,"y":211,"w":173,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":179},
+	"sourceSize": {"w":173,"h":179}
+},
+{
+	"filename": "SpecialAnkh0",
+	"frame": {"x":596,"y":165,"w":52,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":90},
+	"sourceSize": {"w":52,"h":90}
+},
+{
+	"filename": "SpecialBust0",
+	"frame": {"x":840,"y":529,"w":79,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":112},
+	"sourceSize": {"w":79,"h":112}
+},
+{
+	"filename": "SpecialClayTablet0",
+	"frame": {"x":919,"y":541,"w":90,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":106},
+	"sourceSize": {"w":90,"h":106}
+},
+{
+	"filename": "SpecialEasterIslandHead0",
+	"frame": {"x":89,"y":904,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":120},
+	"sourceSize": {"w":89,"h":120}
+},
+{
+	"filename": "SpecialExcalibur0",
+	"frame": {"x":603,"y":757,"w":108,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":112},
+	"sourceSize": {"w":108,"h":112}
+},
+{
+	"filename": "SpecialFossilSwordFish0",
+	"frame": {"x":650,"y":135,"w":223,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":135},
+	"sourceSize": {"w":223,"h":135}
+},
+{
+	"filename": "SpecialFrozenMammoth0",
+	"frame": {"x":406,"y":211,"w":190,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":173},
+	"sourceSize": {"w":190,"h":173}
+},
+{
+	"filename": "SpecialGoblet0",
+	"frame": {"x":859,"y":435,"w":64,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":83},
+	"sourceSize": {"w":64,"h":83}
+},
+{
+	"filename": "SpecialGoldenPot0",
+	"frame": {"x":496,"y":768,"w":107,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":114},
+	"sourceSize": {"w":107,"h":114}
+},
+{
+	"filename": "SpecialGoldenRam0",
+	"frame": {"x":279,"y":898,"w":101,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":124},
+	"sourceSize": {"w":101,"h":124}
+},
+{
+	"filename": "SpecialMagicLamp0",
+	"frame": {"x":873,"y":154,"w":124,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":79},
+	"sourceSize": {"w":124,"h":79}
+},
+{
+	"filename": "SpecialMummy0",
+	"frame": {"x":494,"y":0,"w":75,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":167},
+	"sourceSize": {"w":75,"h":167}
+},
+{
+	"filename": "SpecialRomanHelmet0",
+	"frame": {"x":945,"y":746,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":99},
+	"sourceSize": {"w":74,"h":99}
+},
+{
+	"filename": "SpecialRoyalCrown0",
+	"frame": {"x":335,"y":390,"w":102,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":92},
+	"sourceSize": {"w":102,"h":92}
+},
+{
+	"filename": "SpecialSphinx0",
+	"frame": {"x":863,"y":334,"w":117,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":101},
+	"sourceSize": {"w":117,"h":101}
+},
+{
+	"filename": "SpecialTikiMask0",
+	"frame": {"x":711,"y":700,"w":81,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":136},
+	"sourceSize": {"w":81,"h":136}
+},
+{
+	"filename": "SpecialTriceratopsSkull0",
+	"frame": {"x":0,"y":487,"w":221,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":211},
+	"sourceSize": {"w":221,"h":211}
+},
+{
+	"filename": "SpecialTrident0",
+	"frame": {"x":59,"y":698,"w":59,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":206},
+	"sourceSize": {"w":59,"h":206}
+},
+{
+	"filename": "SpecialUfo0",
+	"frame": {"x":873,"y":77,"w":139,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":77},
+	"sourceSize": {"w":139,"h":77}
+},
+{
+	"filename": "SpecialVikingLongboat0",
+	"frame": {"x":596,"y":417,"w":173,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":147},
+	"sourceSize": {"w":173,"h":147}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "SpecialItemsSheet0.png",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6536e5ddc1b6537599eca8d324dc47c0:7a16323e7c64406c6de8dad2ad6b2658:b47f28043e37b1a5e1d10604851ce98b$"
+}
+}

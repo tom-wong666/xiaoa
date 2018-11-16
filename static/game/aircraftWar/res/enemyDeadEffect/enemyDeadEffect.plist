@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{108,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{324,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/middleEnemyDeadEffect06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{540,0},{108,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,99}</string>
+			</dict>
+			<key>enemyDeadEffect/smallEnemyDeadEffect01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{648,0},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>enemyDeadEffect/smallEnemyDeadEffect02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{713,0},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>enemyDeadEffect/smallEnemyDeadEffect03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{778,0},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>enemyDeadEffect/smallEnemyDeadEffect04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,0},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>enemyDeadEffect/smallEnemyDeadEffect05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{908,0},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>enemyDeadEffect.png</string>
+			<key>realTextureFileName</key>
+			<string>enemyDeadEffect.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,11 +1,16 @@
 <template>
   <div>
+    <my-header></my-header>
     <router-view/>
+    <my-footer></my-footer>
   </div>
 </template>
 
 <script>
+import MyHeader from '@/common/header.vue'
+import MyFooter from '@/common/footer.vue'
 export default {
+  components:{MyHeader,MyFooter},
   name: 'App',
   methods:{
     resizeFontSize(){

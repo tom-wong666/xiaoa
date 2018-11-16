@@ -1,0 +1,52 @@
+{
+  "AudioTags": [
+    {
+      "Tag": "HiddenShine",
+      "AudioNames": [
+        "HiddenShine0",
+        "HiddenShine1",
+        "HiddenShine2"
+      ]
+    },
+    {
+      "Tag": "HookGotMoney",
+      "AudioNames": [
+        "HookGotMoney0",
+        "HookGotMoney1",
+        "HookGotMoney2",
+        "HookGotMoney3",
+        "HookGotMoney4"
+      ]
+    },
+    {
+      "Tag": "HookGrab",
+      "AudioNames": [
+        "HookGrab0",
+        "HookGrab1",
+        "HookGrab2"
+      ]
+    },
+    {
+      "Tag": "HookLaunch",
+      "AudioNames": [
+        "HookLaunch0",
+        "HookLaunch1",
+        "HookLaunch2"
+      ]
+    },
+    {
+      "Tag": "PassiveFuelDrainEmpty",
+      "AudioNames": [
+        "PassiveFuelDrainEmpty0",
+        "PassiveFuelDrainEmpty1"
+      ]
+    },
+    {
+      "Tag": "MinerGameplayMusic",
+      "AudioNames": [
+        "MinerGameplayMusic0",
+        "MinerGameplayMusic1"
+      ]
+    }
+  ]
+}

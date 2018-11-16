@@ -1,0 +1,852 @@
+{"frames": [
+
+{
+	"filename": "GrabbedAmberAnt0",
+	"frame": {"x":954,"y":71,"w":68,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":81},
+	"sourceSize": {"w":68,"h":81}
+},
+{
+	"filename": "GrabbedAmberButterfly0",
+	"frame": {"x":217,"y":271,"w":99,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":118},
+	"sourceSize": {"w":99,"h":118}
+},
+{
+	"filename": "GrabbedAmberSpider0",
+	"frame": {"x":844,"y":232,"w":97,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":84},
+	"sourceSize": {"w":97,"h":84}
+},
+{
+	"filename": "GrabbedAnchor0",
+	"frame": {"x":316,"y":256,"w":94,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":129},
+	"sourceSize": {"w":94,"h":129}
+},
+{
+	"filename": "GrabbedAxe0",
+	"frame": {"x":280,"y":830,"w":71,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":127},
+	"sourceSize": {"w":71,"h":127}
+},
+{
+	"filename": "GrabbedBigChest0",
+	"frame": {"x":0,"y":559,"w":133,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":146},
+	"sourceSize": {"w":133,"h":146}
+},
+{
+	"filename": "GrabbedBlockBoulderIdle0",
+	"frame": {"x":0,"y":0,"w":165,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":183},
+	"sourceSize": {"w":165,"h":183}
+},
+{
+	"filename": "GrabbedBoneLarge0",
+	"frame": {"x":165,"y":0,"w":153,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":127},
+	"sourceSize": {"w":153,"h":127}
+},
+{
+	"filename": "GrabbedBoneLarge1",
+	"frame": {"x":236,"y":760,"w":106,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":70},
+	"sourceSize": {"w":106,"h":70}
+},
+{
+	"filename": "GrabbedBoneLarge2",
+	"frame": {"x":661,"y":126,"w":93,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":113},
+	"sourceSize": {"w":93,"h":113}
+},
+{
+	"filename": "GrabbedBoneMedium0",
+	"frame": {"x":766,"y":658,"w":68,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":86},
+	"sourceSize": {"w":68,"h":86}
+},
+{
+	"filename": "GrabbedBoneMedium1",
+	"frame": {"x":907,"y":731,"w":71,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":79},
+	"sourceSize": {"w":71,"h":79}
+},
+{
+	"filename": "GrabbedBoneMedium2",
+	"frame": {"x":613,"y":251,"w":65,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":114},
+	"sourceSize": {"w":65,"h":114}
+},
+{
+	"filename": "GrabbedBoneSmall0",
+	"frame": {"x":854,"y":553,"w":67,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":94},
+	"sourceSize": {"w":67,"h":94}
+},
+{
+	"filename": "GrabbedBoneSmall1",
+	"frame": {"x":954,"y":0,"w":70,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":71},
+	"sourceSize": {"w":70,"h":71}
+},
+{
+	"filename": "GrabbedBoneSmall2",
+	"frame": {"x":928,"y":430,"w":64,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":83},
+	"sourceSize": {"w":64,"h":83}
+},
+{
+	"filename": "GrabbedBottle0",
+	"frame": {"x":615,"y":365,"w":63,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":110},
+	"sourceSize": {"w":63,"h":110}
+},
+{
+	"filename": "GrabbedCoalLarge0",
+	"frame": {"x":340,"y":633,"w":105,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":119},
+	"sourceSize": {"w":105,"h":119}
+},
+{
+	"filename": "GrabbedCoalLarge1",
+	"frame": {"x":445,"y":624,"w":97,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":120},
+	"sourceSize": {"w":97,"h":120}
+},
+{
+	"filename": "GrabbedCoalLarge2",
+	"frame": {"x":518,"y":379,"w":97,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":118},
+	"sourceSize": {"w":97,"h":118}
+},
+{
+	"filename": "GrabbedCoalMedium0",
+	"frame": {"x":634,"y":584,"w":72,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":84},
+	"sourceSize": {"w":72,"h":84}
+},
+{
+	"filename": "GrabbedCoalMedium1",
+	"frame": {"x":907,"y":647,"w":73,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":84},
+	"sourceSize": {"w":73,"h":84}
+},
+{
+	"filename": "GrabbedCoalMedium2",
+	"frame": {"x":834,"y":647,"w":73,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":86},
+	"sourceSize": {"w":73,"h":86}
+},
+{
+	"filename": "GrabbedCoalSmall0",
+	"frame": {"x":183,"y":950,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":68,"h":68}
+},
+{
+	"filename": "GrabbedCoalSmall1",
+	"frame": {"x":478,"y":744,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":68,"h":68}
+},
+{
+	"filename": "GrabbedCoalSmall2",
+	"frame": {"x":834,"y":817,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":68,"h":68}
+},
+{
+	"filename": "GrabbedCoffin0",
+	"frame": {"x":0,"y":705,"w":94,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":165},
+	"sourceSize": {"w":94,"h":165}
+},
+{
+	"filename": "GrabbedDrill0",
+	"frame": {"x":0,"y":870,"w":106,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":153},
+	"sourceSize": {"w":106,"h":153}
+},
+{
+	"filename": "GrabbedFossilFish0",
+	"frame": {"x":129,"y":335,"w":88,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":107},
+	"sourceSize": {"w":88,"h":107}
+},
+{
+	"filename": "GrabbedFossilShell0",
+	"frame": {"x":756,"y":232,"w":88,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":107},
+	"sourceSize": {"w":88,"h":107}
+},
+{
+	"filename": "GrabbedFossilSnail0",
+	"frame": {"x":759,"y":339,"w":88,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":107},
+	"sourceSize": {"w":88,"h":107}
+},
+{
+	"filename": "GrabbedFrozenBone01",
+	"frame": {"x":183,"y":830,"w":97,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":120},
+	"sourceSize": {"w":97,"h":120}
+},
+{
+	"filename": "GrabbedFrozenMiner01",
+	"frame": {"x":0,"y":371,"w":127,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":188},
+	"sourceSize": {"w":127,"h":188}
+},
+{
+	"filename": "GrabbedFrozenPickaxe01",
+	"frame": {"x":0,"y":183,"w":129,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":188},
+	"sourceSize": {"w":129,"h":188}
+},
+{
+	"filename": "GrabbedFuel0",
+	"frame": {"x":432,"y":821,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":100},
+	"sourceSize": {"w":88,"h":100}
+},
+{
+	"filename": "GrabbedGemEmerald0",
+	"frame": {"x":251,"y":957,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedGemEmeraldLarge0",
+	"frame": {"x":779,"y":446,"w":81,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":107},
+	"sourceSize": {"w":81,"h":107}
+},
+{
+	"filename": "GrabbedGemEmeraldMedium0",
+	"frame": {"x":766,"y":744,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":80},
+	"sourceSize": {"w":68,"h":80}
+},
+{
+	"filename": "GrabbedGemRuby0",
+	"frame": {"x":907,"y":810,"w":68,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":63},
+	"sourceSize": {"w":68,"h":63}
+},
+{
+	"filename": "GrabbedGemRubyLarge0",
+	"frame": {"x":678,"y":349,"w":81,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":108},
+	"sourceSize": {"w":81,"h":108}
+},
+{
+	"filename": "GrabbedGemRubyMedium0",
+	"frame": {"x":902,"y":873,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":80},
+	"sourceSize": {"w":68,"h":80}
+},
+{
+	"filename": "GrabbedGemSapphire0",
+	"frame": {"x":319,"y":957,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedGemSapphireLarge0",
+	"frame": {"x":351,"y":821,"w":81,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":107},
+	"sourceSize": {"w":81,"h":107}
+},
+{
+	"filename": "GrabbedGemSapphireMedium0",
+	"frame": {"x":860,"y":430,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":80},
+	"sourceSize": {"w":68,"h":80}
+},
+{
+	"filename": "GrabbedGoldChest0",
+	"frame": {"x":941,"y":152,"w":81,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":97},
+	"sourceSize": {"w":81,"h":97}
+},
+{
+	"filename": "GrabbedGoldenIdolOff1",
+	"frame": {"x":634,"y":475,"w":72,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":109},
+	"sourceSize": {"w":72,"h":109}
+},
+{
+	"filename": "GrabbedGoldenIdolOn1",
+	"frame": {"x":706,"y":457,"w":73,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":108},
+	"sourceSize": {"w":73,"h":108}
+},
+{
+	"filename": "GrabbedGoldLarge0",
+	"frame": {"x":235,"y":517,"w":103,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":122},
+	"sourceSize": {"w":103,"h":122}
+},
+{
+	"filename": "GrabbedGoldLarge1",
+	"frame": {"x":338,"y":511,"w":103,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":122},
+	"sourceSize": {"w":103,"h":122}
+},
+{
+	"filename": "GrabbedGoldLarge2",
+	"frame": {"x":743,"y":0,"w":106,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":123},
+	"sourceSize": {"w":106,"h":123}
+},
+{
+	"filename": "GrabbedGoldMedium0",
+	"frame": {"x":923,"y":337,"w":74,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":93},
+	"sourceSize": {"w":74,"h":93}
+},
+{
+	"filename": "GrabbedGoldMedium1",
+	"frame": {"x":692,"y":668,"w":74,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":88},
+	"sourceSize": {"w":74,"h":88}
+},
+{
+	"filename": "GrabbedGoldMedium2",
+	"frame": {"x":520,"y":812,"w":73,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":97},
+	"sourceSize": {"w":73,"h":97}
+},
+{
+	"filename": "GrabbedGoldSmall0",
+	"frame": {"x":813,"y":885,"w":67,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":66},
+	"sourceSize": {"w":67,"h":66}
+},
+{
+	"filename": "GrabbedGoldSmall1",
+	"frame": {"x":921,"y":513,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedGoldSmall2",
+	"frame": {"x":921,"y":580,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedHelmet0",
+	"frame": {"x":518,"y":136,"w":67,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":123},
+	"sourceSize": {"w":67,"h":123}
+},
+{
+	"filename": "GrabbedIceLarge0",
+	"frame": {"x":127,"y":442,"w":107,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":117},
+	"sourceSize": {"w":107,"h":117}
+},
+{
+	"filename": "GrabbedIceLarge1",
+	"frame": {"x":516,"y":259,"w":97,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":120},
+	"sourceSize": {"w":97,"h":120}
+},
+{
+	"filename": "GrabbedIceMedium0",
+	"frame": {"x":387,"y":928,"w":72,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":95},
+	"sourceSize": {"w":72,"h":95}
+},
+{
+	"filename": "GrabbedIceMedium1",
+	"frame": {"x":834,"y":733,"w":73,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":84},
+	"sourceSize": {"w":73,"h":84}
+},
+{
+	"filename": "GrabbedIceSmall0",
+	"frame": {"x":342,"y":752,"w":68,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":69},
+	"sourceSize": {"w":68,"h":69}
+},
+{
+	"filename": "GrabbedIceSmall1",
+	"frame": {"x":692,"y":756,"w":68,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":66},
+	"sourceSize": {"w":68,"h":66}
+},
+{
+	"filename": "GrabbedMiningHelmet0",
+	"frame": {"x":542,"y":624,"w":68,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":94},
+	"sourceSize": {"w":68,"h":94}
+},
+{
+	"filename": "GrabbedMiningSkeleton0",
+	"frame": {"x":217,"y":127,"w":93,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":144},
+	"sourceSize": {"w":93,"h":144}
+},
+{
+	"filename": "GrabbedMiscBarrel0",
+	"frame": {"x":544,"y":497,"w":90,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":118},
+	"sourceSize": {"w":90,"h":118}
+},
+{
+	"filename": "GrabbedMiscCrate0",
+	"frame": {"x":847,"y":316,"w":76,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":93},
+	"sourceSize": {"w":76,"h":93}
+},
+{
+	"filename": "GrabbedMiscMineCart0",
+	"frame": {"x":129,"y":183,"w":88,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":152},
+	"sourceSize": {"w":88,"h":152}
+},
+{
+	"filename": "GrabbedMiscShovel0",
+	"frame": {"x":168,"y":685,"w":68,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":145},
+	"sourceSize": {"w":68,"h":145}
+},
+{
+	"filename": "GrabbedMiscVase0",
+	"frame": {"x":849,"y":123,"w":92,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":107},
+	"sourceSize": {"w":92,"h":107}
+},
+{
+	"filename": "GrabbedMiscVase1",
+	"frame": {"x":754,"y":123,"w":95,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":109},
+	"sourceSize": {"w":95,"h":109}
+},
+{
+	"filename": "GrabbedMiscVaseBroken0",
+	"frame": {"x":678,"y":239,"w":78,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":110},
+	"sourceSize": {"w":78,"h":110}
+},
+{
+	"filename": "GrabbedObsidianLarge0",
+	"frame": {"x":412,"y":136,"w":106,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":121},
+	"sourceSize": {"w":106,"h":121}
+},
+{
+	"filename": "GrabbedObsidianLarge1",
+	"frame": {"x":535,"y":0,"w":103,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":135},
+	"sourceSize": {"w":103,"h":135}
+},
+{
+	"filename": "GrabbedObsidianLarge2",
+	"frame": {"x":429,"y":0,"w":106,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":136},
+	"sourceSize": {"w":106,"h":136}
+},
+{
+	"filename": "GrabbedObsidianMedium0",
+	"frame": {"x":780,"y":553,"w":74,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":91},
+	"sourceSize": {"w":74,"h":91}
+},
+{
+	"filename": "GrabbedObsidianMedium1",
+	"frame": {"x":532,"y":909,"w":72,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":95},
+	"sourceSize": {"w":72,"h":95}
+},
+{
+	"filename": "GrabbedObsidianMedium2",
+	"frame": {"x":618,"y":668,"w":74,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":89},
+	"sourceSize": {"w":74,"h":89}
+},
+{
+	"filename": "GrabbedObsidianSmall0",
+	"frame": {"x":410,"y":752,"w":68,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":69},
+	"sourceSize": {"w":68,"h":69}
+},
+{
+	"filename": "GrabbedObsidianSmall1",
+	"frame": {"x":677,"y":956,"w":68,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":66},
+	"sourceSize": {"w":68,"h":66}
+},
+{
+	"filename": "GrabbedObsidianSmall2",
+	"frame": {"x":733,"y":824,"w":68,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":63},
+	"sourceSize": {"w":68,"h":63}
+},
+{
+	"filename": "GrabbedPickaxe0",
+	"frame": {"x":585,"y":135,"w":76,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":116},
+	"sourceSize": {"w":76,"h":116}
+},
+{
+	"filename": "GrabbedRockLarge0",
+	"frame": {"x":236,"y":639,"w":104,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":121},
+	"sourceSize": {"w":104,"h":121}
+},
+{
+	"filename": "GrabbedRockLarge1",
+	"frame": {"x":310,"y":130,"w":102,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":126},
+	"sourceSize": {"w":102,"h":126}
+},
+{
+	"filename": "GrabbedRockLarge2",
+	"frame": {"x":441,"y":502,"w":103,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":122},
+	"sourceSize": {"w":103,"h":122}
+},
+{
+	"filename": "GrabbedRockLargeEmerald0",
+	"frame": {"x":415,"y":379,"w":103,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":123},
+	"sourceSize": {"w":103,"h":123}
+},
+{
+	"filename": "GrabbedRockLargeGold0",
+	"frame": {"x":318,"y":0,"w":111,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":130},
+	"sourceSize": {"w":111,"h":130}
+},
+{
+	"filename": "GrabbedRockLargeRuby0",
+	"frame": {"x":638,"y":0,"w":105,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":126},
+	"sourceSize": {"w":105,"h":126}
+},
+{
+	"filename": "GrabbedRockLargeSapphire0",
+	"frame": {"x":849,"y":0,"w":105,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":123},
+	"sourceSize": {"w":105,"h":123}
+},
+{
+	"filename": "GrabbedRockLargeSilver0",
+	"frame": {"x":410,"y":257,"w":106,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":122},
+	"sourceSize": {"w":106,"h":122}
+},
+{
+	"filename": "GrabbedRockMedium0",
+	"frame": {"x":941,"y":249,"w":75,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":88},
+	"sourceSize": {"w":75,"h":88}
+},
+{
+	"filename": "GrabbedRockMedium1",
+	"frame": {"x":706,"y":565,"w":74,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":93},
+	"sourceSize": {"w":74,"h":93}
+},
+{
+	"filename": "GrabbedRockMedium2",
+	"frame": {"x":546,"y":718,"w":72,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":92},
+	"sourceSize": {"w":72,"h":92}
+},
+{
+	"filename": "GrabbedRockSmall0",
+	"frame": {"x":665,"y":822,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedRockSmall1",
+	"frame": {"x":677,"y":889,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedRockSmall2",
+	"frame": {"x":745,"y":887,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedShoe0",
+	"frame": {"x":593,"y":810,"w":72,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":91},
+	"sourceSize": {"w":72,"h":91}
+},
+{
+	"filename": "GrabbedSilverLarge0",
+	"frame": {"x":133,"y":559,"w":102,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":126},
+	"sourceSize": {"w":102,"h":126}
+},
+{
+	"filename": "GrabbedSilverMedium0",
+	"frame": {"x":604,"y":901,"w":73,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":90},
+	"sourceSize": {"w":73,"h":90}
+},
+{
+	"filename": "GrabbedSilverSmall0",
+	"frame": {"x":745,"y":954,"w":68,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":67},
+	"sourceSize": {"w":68,"h":67}
+},
+{
+	"filename": "GrabbedSkeleton0",
+	"frame": {"x":322,"y":385,"w":93,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":126},
+	"sourceSize": {"w":93,"h":126}
+},
+{
+	"filename": "GrabbedSpeedyStoneValuable0",
+	"frame": {"x":234,"y":389,"w":88,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":128},
+	"sourceSize": {"w":88,"h":128}
+},
+{
+	"filename": "GrabbedSword0",
+	"frame": {"x":94,"y":705,"w":74,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":153},
+	"sourceSize": {"w":74,"h":153}
+},
+{
+	"filename": "GrabbedSword2",
+	"frame": {"x":106,"y":858,"w":77,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":153},
+	"sourceSize": {"w":77,"h":153}
+},
+{
+	"filename": "GrabbedTire0",
+	"frame": {"x":459,"y":921,"w":73,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":97},
+	"sourceSize": {"w":73,"h":97}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GrabbedItemsSheet0.png",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17b95c2413f1fa67cd136b0d9f2a5b26:5f1b0dfece70efbc0a8576ba0eaf7050:d8d1097c27dfe9804aaf2cdfc1dd7866$"
+}
+}

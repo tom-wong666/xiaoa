@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "SpeedyStoneValuable_000",
+	"frame": {"x":364,"y":101,"w":91,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":97},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_001",
+	"frame": {"x":364,"y":101,"w":91,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":97},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_002",
+	"frame": {"x":181,"y":104,"w":91,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":99},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_003",
+	"frame": {"x":273,"y":101,"w":91,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":91,"h":100},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_004",
+	"frame": {"x":273,"y":0,"w":91,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":91,"h":101},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_005",
+	"frame": {"x":90,"y":401,"w":90,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":103},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_006",
+	"frame": {"x":272,"y":297,"w":90,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":5,"w":90,"h":104},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_007",
+	"frame": {"x":363,"y":295,"w":90,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":90,"h":105},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_008",
+	"frame": {"x":0,"y":324,"w":90,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":7,"w":90,"h":106},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_009",
+	"frame": {"x":0,"y":0,"w":90,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":90,"h":109},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_010",
+	"frame": {"x":0,"y":109,"w":90,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":5,"w":90,"h":108},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_011",
+	"frame": {"x":0,"y":217,"w":90,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":107},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_012",
+	"frame": {"x":182,"y":0,"w":91,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":91,"h":104},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_013",
+	"frame": {"x":90,"y":97,"w":91,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":91,"h":102},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_014",
+	"frame": {"x":364,"y":0,"w":91,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":91,"h":101},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_015",
+	"frame": {"x":90,"y":199,"w":91,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":91,"h":99},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_016",
+	"frame": {"x":90,"y":0,"w":92,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":92,"h":97},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_017",
+	"frame": {"x":181,"y":203,"w":91,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":95},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_018",
+	"frame": {"x":272,"y":201,"w":91,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":96},
+	"sourceSize": {"w":115,"h":115}
+},
+{
+	"filename": "SpeedyStoneValuable_019",
+	"frame": {"x":364,"y":198,"w":91,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":91,"h":97},
+	"sourceSize": {"w":115,"h":115}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "SpeedyStoneValuable_20_30.png",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6098fdd73e1e16d57e0923645a7b8952:6b5265531b8b69161dcbc148333e6ad2:ea2152dbf95f1fab246776ba233e38e3$"
+}
+}

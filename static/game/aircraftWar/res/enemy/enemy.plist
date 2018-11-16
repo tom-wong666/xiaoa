@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>enemy/bigEnemy01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{207,181}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{207,181}</string>
+			</dict>
+			<key>enemy/bigEnemy02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{207,0},{213,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{213,151}</string>
+			</dict>
+			<key>enemy/bigEnemy03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,0},{176,135}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{176,135}</string>
+			</dict>
+			<key>enemy/middleEnemy01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{596,117},{100,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,68}</string>
+			</dict>
+			<key>enemy/middleEnemy02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,78},{120,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,72}</string>
+			</dict>
+			<key>enemy/middleEnemy03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{716,0},{124,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,105}</string>
+			</dict>
+			<key>enemy/middleEnemy04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{596,0},{120,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,117}</string>
+			</dict>
+			<key>enemy/propEnemy01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{716,105},{86,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,83}</string>
+			</dict>
+			<key>enemy/smallEnemy01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{960,54},{37,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{37,40}</string>
+			</dict>
+			<key>enemy/smallEnemy02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{960,0},{54,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,63}</string>
+			</dict>
+			<key>enemy/smallEnemy03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{584,185},{75,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,70}</string>
+			</dict>
+			<key>enemy/smallEnemy04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,0},{120,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,78}</string>
+			</dict>
+			<key>enemy/smallEnemy05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{500,135},{84,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,70}</string>
+			</dict>
+			<key>enemy/smallEnemy06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,135},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>enemy.png</string>
+			<key>realTextureFileName</key>
+			<string>enemy.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

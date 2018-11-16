@@ -1,0 +1,7 @@
+body {
+    background-image: url("../assets/CssPattern.png");
+    background-repeat: repeat;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    overflow: hidden;
+}

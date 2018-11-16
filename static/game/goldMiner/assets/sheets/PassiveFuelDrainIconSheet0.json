@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "Fuel0",
+	"frame": {"x":0,"y":0,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel1",
+	"frame": {"x":61,"y":0,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel2",
+	"frame": {"x":0,"y":198,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel3",
+	"frame": {"x":122,"y":198,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel4",
+	"frame": {"x":183,"y":198,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel5",
+	"frame": {"x":0,"y":264,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel6",
+	"frame": {"x":0,"y":330,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel7",
+	"frame": {"x":0,"y":396,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel8",
+	"frame": {"x":61,"y":264,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel9",
+	"frame": {"x":122,"y":264,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel10",
+	"frame": {"x":122,"y":0,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel11",
+	"frame": {"x":183,"y":0,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel12",
+	"frame": {"x":0,"y":66,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel13",
+	"frame": {"x":61,"y":66,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel14",
+	"frame": {"x":122,"y":66,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel15",
+	"frame": {"x":183,"y":66,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel16",
+	"frame": {"x":0,"y":132,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel17",
+	"frame": {"x":61,"y":132,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel18",
+	"frame": {"x":122,"y":132,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel19",
+	"frame": {"x":183,"y":132,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+},
+{
+	"filename": "Fuel20",
+	"frame": {"x":61,"y":198,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":66},
+	"sourceSize": {"w":61,"h":66}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "PassiveFuelDrainIconSheet0.png",
+	"format": "RGBA4444",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9fe293d7a0563f69a8a8124363109709:6c1e24d3d67b60dcc18725d6c3d20ea0:ee97252c3396918bcae250867bc0f8c1$"
+}
+}
