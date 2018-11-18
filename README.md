@@ -5,13 +5,13 @@
 #技术栈
 HTML+CSS+JS+VUE+PHP+MySQL
 #项目已完成基础配置说明
-1，rem：设计图以750px为准时，px rem比例为1：100；
-2，bootStrap；
-3，less;
-4，axios;
-5，vue-infinite-scroll;
-6，mockjs;
-7，自定义响应式网页(利用css3媒体查询和window.matchMedia实现);
+1，bootStrap；
+2，less;
+3，axios;
+4，vue-infinite-scroll;
+5，mockjs;
+6，自定义响应式网页(利用css3媒体查询和window.matchMedia实现);
+7，rem：设计图以750px为准时，px rem比例为1：100；
 8，echarts引用方法1；
 #项目已实现的主要功能模块
 1，无限懒加载(后台到前台)；
