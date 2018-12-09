@@ -124,7 +124,7 @@ export default {
       //数据请求计数
        this.num+=1;
       //请求数据
-      const res = await this.$http.post('http://127.0.0.1/main.php?cid='+this.num);
+      const res = await this.$http.post(this.$api.homeInfo+'?cid='+this.num);
       //定义数据格式
       const contentAdd=[
         {

@@ -11,10 +11,26 @@ import '../node_modules/echarts/lib/chart/bar'
 // import '../node_modules/echarts/lib/chart/line'
 // import '../node_modules/echarts/lib/chart/pie'
 // import '../node_modules/echarts/lib/chart/tooltip'
+// 引入网络请求api
+import API from '@/page/http/http.api'
+
+Object.defineProperties(Vue.prototype, {
+  // 注册axios请求为vue的原型对象，名称为$http
+  $http: {
+    value: axios,
+    writable: false
+  },
+  // 注册http请求api为vue的原型对象，名称为$api
+  $api: {
+    value: API,
+    writable: false
+  }
+})
 
 Vue.use(infiniteScroll)
 
-Vue.prototype.$http = axios
+// 注册axios请求为vue的原型，原型名称为$http
+// Vue.prototype.$http = axios
 
 Vue.component('chart', ECharts)
 
