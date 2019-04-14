@@ -9,6 +9,7 @@ import contribute from '@/page/contributeGuide'
 import editing from '@/page/editingGuide'
 import signIn from '@/page/signIn'
 import about from '@/page/about'
+import scrollTable from '@/page/scrollTable'
 
 Vue.use(Router)
 
@@ -58,6 +59,11 @@ export default new Router({
       path: '/about',
       name: 'about',
       component: about
-    }                     
+    },
+    {
+      path: '/scrollTable',
+      name: 'scrollTable',
+      component: scrollTable
+    }
   ]
 })
