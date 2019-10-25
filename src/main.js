@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import axios from 'axios'
+import { setToken } from '@/utils/handleCookies'
 import infiniteScroll from 'vue-infinite-scroll'
 import ECharts from 'vue-echarts/components/ECharts'
 // a按需引入echart图表配置，同下b配置
@@ -13,6 +14,19 @@ import '../node_modules/echarts/lib/chart/bar'
 // import '../node_modules/echarts/lib/chart/tooltip'
 // 引入网络请求api
 import API from '@/page/http/http.api'
+
+// 拦截器
+axios.interceptors.request.use(
+  config => {
+    config.headers['X-Token'] = '123木头人'
+    return config
+  },
+  error => {
+    // Do something with request error
+    console.log(error) // for debug
+    Promise.reject(error)
+  }
+)
 
 Object.defineProperties(Vue.prototype, {
   // 注册axios请求为vue的原型对象，名称为$http

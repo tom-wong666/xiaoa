@@ -9,6 +9,7 @@
 <script>
 import MyHeader from '@/common/header.vue'
 import MyFooter from '@/common/footer.vue'
+import { setToken } from '@/utils/handleCookies'
 export default {
   components:{MyHeader,MyFooter},
   name: 'App',
@@ -24,6 +25,7 @@ export default {
   },
   mounted() {
     this.resizeFontSize();
+    setToken('App添加token')
   },
 }
 </script>
