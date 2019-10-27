@@ -123,6 +123,10 @@ export default {
     async fetch(){
       //数据请求计数
        this.num+=1;
+       // cid重置
+       if (this.num > 10) {
+         this.num = 1
+       }
       //请求数据
       const res = await this.$http.post(this.$api.homeInfo+'?cid='+this.num);
       //定义数据格式
@@ -189,11 +193,13 @@ export default {
   margin-top:0.3rem;
   .profit{
     /*待删除的设置*/
-    border:1px solid green;
+    border:1px solid #ccc;
   }
   .content{
     /*待删除的设置*/
-    border:1px solid blue;
+    border:1px solid #ccc;
+    margin-bottom: 5px;
+    padding: 3px;
     .header{
       display:flex;
       justify-content:flex-start;

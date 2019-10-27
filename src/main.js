@@ -18,7 +18,7 @@ import API from '@/page/http/http.api'
 // 拦截器
 axios.interceptors.request.use(
   config => {
-    config.headers['X-Token'] = '123木头人'
+    // config.headers['X-Token'] = '123木头人'
     return config
   },
   error => {

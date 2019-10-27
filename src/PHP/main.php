@@ -3,6 +3,7 @@
   header('Access-Control-Allow-Origin:*');
   //链接数据库
   $conn=mysqli_connect("127.0.0.1","root","","newxiaoa",3306);
+  // $conn=new mysqli("120.77.182.31","root","123456","newxiaoa",3306);
   //设置数据库字符集
   $sql="SET NAMES UTF8";
   //链接数据库并设置
