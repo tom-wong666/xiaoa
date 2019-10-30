@@ -18,5 +18,5 @@
   $row=mysqli_fetch_row($res);
   //定义返回值并赋值和抛出
   $output=[];
-  $output[]=["code"=>200,"data"=>$row];
+  $output[]=["code"=>200,"X-Token"=>"tomwong666","data"=>$row];
   echo json_encode($output);

@@ -129,6 +129,7 @@ export default {
        }
       //请求数据
       const res = await this.$http.post(this.$api.homeInfo+'?cid='+this.num);
+      console.log('res', res)
       //定义数据格式
       const contentAdd=[
         {

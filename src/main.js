@@ -4,9 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import axios from 'axios'
-import { setToken } from '@/utils/handleCookies'
 import infiniteScroll from 'vue-infinite-scroll'
 import ECharts from 'vue-echarts/components/ECharts'
+import { setToken, getToken } from '@/utils/handleCookies'
 // a按需引入echart图表配置，同下b配置
 import '../node_modules/echarts/lib/chart/bar'
 // import '../node_modules/echarts/lib/chart/line'
@@ -15,16 +15,30 @@ import '../node_modules/echarts/lib/chart/bar'
 // 引入网络请求api
 import API from '@/page/http/http.api'
 
-// 拦截器
+// 请求拦截器
 axios.interceptors.request.use(
   config => {
-    // config.headers['X-Token'] = '123木头人'
+    console.log('getToken()', getToken())
+    if (getToken() !== 'App添加token') {
+      config.headers['X-Token'] = getToken()
+    }
     return config
   },
   error => {
     // Do something with request error
     console.log(error) // for debug
     Promise.reject(error)
+  }
+)
+
+// 返回拦截器
+axios.interceptors.response.use(
+  response => {
+    setToken('tomwong666')
+    return response
+  },
+  error => {
+    return Promise.reject(error)
   }
 )
 
