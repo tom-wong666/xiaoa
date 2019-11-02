@@ -28,35 +28,35 @@ INSERT INTO content VALUES(
 #插入一段测试内容-2
 INSERT INTO content VALUES(
     '',
-    '../../static/data/img/sex/sexPhoto00001.gif',
+    'http://120.77.182.31:90/data/img/sex/sexPhoto00001.gif',
         0,
         0
 ); 
 #插入一段测试内容-3
 INSERT INTO content VALUES(
     '',
-    '../../static/data/audio/music/muAudio_bitMe_00001.mp3&../../static/data/audio/music/muAudio_bitMe_00001.ogg&../../static/data/audio/music/muAudio_bitMe_00001.wav',
+    'http://120.77.182.31:90/data/audio/music/muAudio_bitMe_00001.mp3&http://120.77.182.31:90/data/audio/music/muAudio_bitMe_00001.ogg&http://120.77.182.31:90/data/audio/music/muAudio_bitMe_00001.wav',
         0,
         0
 ); 
 #插入一段测试内容-4
 INSERT INTO content VALUES(
     '',
-    '../../static/data/video/humor/hlVideo_TBBT_00001.mp4&../../static/data/video/humor/hlVideo_TBBT_00001.avi&../../static/data/video/humor/hlVideo_TBBT_00001.Ogg',
+    'http://120.77.182.31:90/data/video/humor/hlVideo_TBBT_00001.mp4&http://120.77.182.31:90/data/video/humor/hlVideo_TBBT_00001.avi&http://120.77.182.31:90/data/video/humor/hlVideo_TBBT_00001.Ogg',
         0,
         0
 ); 
 #插入一段测试内容-5
 INSERT INTO content VALUES(
     '',
-    '../../static/data/img/humor/hlPhoto00001.gif',
+    'http://120.77.182.31:90/data/img/humor/hlPhoto00001.gif',
         0,
         0
 ); 
 #插入一段测试内容-6
 INSERT INTO content VALUES(
     '',
-    '../../static/data/video/terrifying/kbVideo00001.mp4&../../static/data/video/terrifying/kbVideo00001.avi&../../static/data/video/terrifying/kbVideo00001.Ogg',
+    'http://120.77.182.31:90/data/video/terrifying/kbVideo00001.mp4&http://120.77.182.31:90/data/video/terrifying/kbVideo00001.avi&http://120.77.182.31:90/data/video/terrifying/kbVideo00001.Ogg',
         0,
         0
 );    
