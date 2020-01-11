@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+#Spring配置
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://120.77.182.31:3306/newxiaoa?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mapping/*Mapper.xml
+  type-aliases-package: com.example.entity

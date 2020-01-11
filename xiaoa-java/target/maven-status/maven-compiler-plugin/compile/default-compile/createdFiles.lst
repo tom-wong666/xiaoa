@@ -1,0 +1,5 @@
+com\springmybatis\demo\controller\HelloController.class
+com\springmybatis\demo\service\impl\HelloServiceImpl.class
+com\springmybatis\demo\service\HelloService.class
+com\springmybatis\demo\mapper\HelloMapper.class
+com\springmybatis\demo\DemoApplication.class
