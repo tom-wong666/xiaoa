@@ -128,7 +128,7 @@ export default {
          this.num = 1
        }
       //请求数据
-      const res = await this.$http.post(this.$api.homeInfo+'?cid='+this.num);
+      const res = await this.$http.get(this.$api.homeInfo+'?id='+this.num);
       console.log('res', res)
       //定义数据格式
       const contentAdd=[
@@ -161,7 +161,7 @@ export default {
         },
       ];
       //赋值
-      const info=res.data[0].data[0];
+      const info=res.data.content;
       if(info.indexOf('.png')>=0 || info.indexOf('.gif')>=0){
         contentAdd[0].body.img=info;
       }else if(info.indexOf('.mp3')>=0){
@@ -169,7 +169,7 @@ export default {
       }else if(info.indexOf('.mp4')>=0){
         contentAdd[0].body.video=info.split("&");
       }else{
-        contentAdd[0].body.article=res.data[0].data[0];
+        contentAdd[0].body.article=info;
       }
       //判断是否是第一次请求
       if(!this.content.length){
