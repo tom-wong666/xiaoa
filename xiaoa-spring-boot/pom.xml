@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring-mybatis</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>xiaoa</artifactId>
     <version>0.0.2</version>
-    <name>demo</name>
-    <description>Demo project for Spring Boot</description>
+    <name>xiaoa</name>
+    <description>Xiaoa project for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
