@@ -112,6 +112,7 @@ export default {
   },
   methods:{
     loadMore(){
+      // alert('触发loadMore'+this.num);
       //数据库目前只有10条数据,mounted时已加载一条了
       // if(this.num>9){
       //   this.switchForMore=true;
