@@ -58,77 +58,77 @@
 </template>
 
 <script>
-  export default {
-    name: 'ReportForms',
-    
-    data() {
-      return {
-        tableInfo: [
-          ['日期', '数据1', '数据2', '数据3', '数据4', '数据5'],
-          ['3-1', '3-2', '3-3', '3-4', '3-5', '3-6', '3-7', '3-8', '3-9', '3-10', '3-11', '3-12', '3-13', '3-14', '3-15', '3-16', '3-17'],
-          ['1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999'],
-          ['2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%'],
-          ['90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%'],
-          ['3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9'],
-          ['7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9'],
-        ],
-      };
-    },
+export default {
+  name: 'ReportForms',
 
-    computed: {
-      tableInfoAdd() {
-        console.log('this.chartList', this.chartList);
-        // const { data } = this.chartList;
-        const res = [];
-        // 获取表头信息
-        // const headerInfo = data[0];
-        return res;
-      },
-    },
+  data () {
+    return {
+      tableInfo: [
+        ['日期', '数据1', '数据2', '数据3', '数据4', '数据5'],
+        ['3-1', '3-2', '3-3', '3-4', '3-5', '3-6', '3-7', '3-8', '3-9', '3-10', '3-11', '3-12', '3-13', '3-14', '3-15', '3-16', '3-17'],
+        ['1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999', '1999'],
+        ['2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%', '2.1%'],
+        ['90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%', '90%'],
+        ['3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9', '3.9'],
+        ['7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9', '7.9']
+      ]
+    }
+  },
 
-    methods: {
-      // headerRest滚动事件-左右
-      headerRestFatherScroll(ev) {
-        // 获取滚动距离
-        const left = ev.target.scrollLeft;
-        // 获取headerRestFather
-        const { bodyRestFather } = this.$refs;
-        bodyRestFather.scrollLeft = left;
-      },
-      // bodyRest滚动事件-对应上部左右
-      // -对应左部上下
-      bodyRestFatherScroll(ev) {
-        // 处理左右滚动
-        // 获取滚动距离
-        const left = ev.target.scrollLeft;
-        // 获取headerRestFather
-        const { headerRestFather } = this.$refs;
-        headerRestFather.scrollLeft = left;
+  computed: {
+    tableInfoAdd () {
+      console.log('this.chartList', this.chartList)
+      // const { data } = this.chartList;
+      const res = []
+      // 获取表头信息
+      // const headerInfo = data[0];
+      return res
+    }
+  },
 
-        // 处理上下滚动
-        // 获取滚动距离
-        const top = ev.target.scrollTop;
-        // 获取headerRestFather
-        const { bodyLeftFather } = this.$refs;
-        bodyLeftFather.scrollTop = top;
-      },
-      // bodyRest滚动事件
-      bodyLeftFatherScroll(ev) {
-        // 获取滚动距离
-        const top = ev.target.scrollTop;
-        // 获取headerRestFather
-        const { bodyRestFather } = this.$refs;
-        bodyRestFather.scrollTop = top;
-      },
+  methods: {
+    // headerRest滚动事件-左右
+    headerRestFatherScroll (ev) {
+      // 获取滚动距离
+      const left = ev.target.scrollLeft
+      // 获取headerRestFather
+      const { bodyRestFather } = this.$refs
+      bodyRestFather.scrollLeft = left
     },
-  };
+    // bodyRest滚动事件-对应上部左右
+    // -对应左部上下
+    bodyRestFatherScroll (ev) {
+      // 处理左右滚动
+      // 获取滚动距离
+      const left = ev.target.scrollLeft
+      // 获取headerRestFather
+      const { headerRestFather } = this.$refs
+      headerRestFather.scrollLeft = left
+
+      // 处理上下滚动
+      // 获取滚动距离
+      const top = ev.target.scrollTop
+      // 获取headerRestFather
+      const { bodyLeftFather } = this.$refs
+      bodyLeftFather.scrollTop = top
+    },
+    // bodyRest滚动事件
+    bodyLeftFatherScroll (ev) {
+      // 获取滚动距离
+      const top = ev.target.scrollTop
+      // 获取headerRestFather
+      const { bodyRestFather } = this.$refs
+      bodyRestFather.scrollTop = top
+    }
+  }
+}
 </script>
 
 <style lang="less">
   .chart-table {
     margin-top: 0.5rem;
     font-size: 0.36rem;
-    
+
     ::-webkit-scrollbar {
       display: none;
     }

@@ -24,14 +24,14 @@
         </ul>
       </div>
     </div>
-  </div> 
+  </div>
 </template>
 
 <script>
-  import 'bootstrap/dist/css/bootstrap.min.css'
-  import 'bootstrap/dist/js/bootstrap.min.js'
-  //export default不能缺少，即使里面没东西，不然会导致找不到
-  export default{
-    // name:'MyHeader'
-  } 
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.min.js'
+// export default不能缺少，即使里面没东西，不然会导致找不到
+export default{
+  // name:'MyHeader'
+}
 </script>

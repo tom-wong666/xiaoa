@@ -6,4 +6,4 @@ const API = {
   homeInfo: 'http://120.77.182.31:8090/'
 }
 
-export default API ;
+export default API
