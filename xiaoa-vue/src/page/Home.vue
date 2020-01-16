@@ -89,7 +89,7 @@ export default {
         this.num = 1
       }
       // 请求数据
-      const res = await this.$http.get(this.$api.homeInfo + '?id=' + this.num)
+      const res = await this.$http.get('/?id=' + this.num)
       console.log('res', res)
       // 定义数据格式
       const contentAdd = [
