@@ -18,7 +18,7 @@ public class HelloController {
     private HelloService helloService;
 
     @CrossOrigin(origins = {"*","null"},allowCredentials="true")
-    @GetMapping("/")
+    @GetMapping("/home-resource")
     public Map<String, Object> hello (Integer id) {
         return helloService.getUserInfo(id);
     }

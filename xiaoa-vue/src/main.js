@@ -18,7 +18,6 @@ import API from '@/page/http/http.api'
 // 请求拦截器
 axios.interceptors.request.use(
   config => {
-    console.log('getToken()', getToken())
     if (getToken() !== 'App添加token') {
       config.headers['X-Token'] = getToken()
     }
