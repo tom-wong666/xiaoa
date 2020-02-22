@@ -1,23 +1,24 @@
 package com.springmybatis.demo.service.impl;
 
-import com.springmybatis.demo.mapper.moXiangVideoMapper;
-import com.springmybatis.demo.service.moXiangVideoService;
+import com.springmybatis.demo.mapper.MoXiangVideoMapper;
+import com.springmybatis.demo.service.MoXiangVideoService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
+import java.util.List;
 import java.util.Map;
 
 /**
  * @author ChenCL 2020-01-10 15:52
  */
 @Service
-public class moXiangVideoImpl implements moXiangVideoService {
+public class MoXiangVideoImpl implements MoXiangVideoService {
 
     @Resource
-    private moXiangVideoMapper moXiangVideoMapperInstance;
+    private MoXiangVideoMapper moXiangVideoMapperInstance;
 
     @Override
-    public Map<String, Object> getVideoInfo() {
+    public List<Map<String, Object>> getVideoInfo() {
         return moXiangVideoMapperInstance.getVideoInfo();
     }
 }

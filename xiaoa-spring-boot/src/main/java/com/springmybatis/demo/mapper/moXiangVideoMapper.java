@@ -9,7 +9,7 @@ import java.util.Map;
  * @author chenchanglin
  */
 @Mapper
-public interface moXiangVideoMapper {
+public interface MoXiangVideoMapper {
 
     /**
      * 查询用户信息
