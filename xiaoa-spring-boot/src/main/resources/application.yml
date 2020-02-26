@@ -1,14 +1,5 @@
 server:
-  #https监听端口
-  port: 9080
-  custom:
-    #http监听端口
-    httpPort: 9080
-  ssl:
-    key-store: classpath:3430736_www.moxiang.online.jks
-    key-store-password: vB7hjyel
-    key-store-type: JKS
-    key-alias: moXiangSSL
+  port: 8090
 
 #Spring配置
 spring:
